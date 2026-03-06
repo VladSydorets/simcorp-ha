@@ -94,7 +94,6 @@ data/
 ### State Management
 
 The Pinia store (`stores/news.ts`) handles:
-
 - Account and article data loading
 - Filtering by selected account
 - Pagination for recent articles and all articles
@@ -103,7 +102,6 @@ The Pinia store (`stores/news.ts`) handles:
 ### Data Structure
 
 Articles include character index positions for account mentions:
-
 ```json
 {
   "title": "...",
@@ -143,7 +141,6 @@ Routes
 ## Styling
 
 The application uses Tailwind CSS with:
-
 - Smooth color and scale transitions (`transition-all duration-300`)
 - Responsive breakpoints (mobile-first design)
 - Consistent spacing and typography scales
