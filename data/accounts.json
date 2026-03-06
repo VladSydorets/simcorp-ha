@@ -1,0 +1,32 @@
+[
+    {
+        "id": "MAM",
+        "name": "Mustermann Asset Management",
+        "industry": "Asset Manager",
+        "type": "Customer"
+    },
+    {
+        "id": "HT",
+        "name": "Sir Humphry Trust",
+        "industry": "Sovereign Wealth Fund",
+        "type": "Prospect"
+    },
+    {
+        "id": "SI",
+        "name": "Sunshine Insurance",
+        "industry": "Insurance",
+        "type": "Customer"
+    },
+    {
+        "id": "FE",
+        "name": "Le Finance Experts",
+        "industry": "Asset Manager",
+        "type": "Prospect"
+    },
+    {
+        "id": "JDI",
+        "name": "John Doe Insurance",
+        "industry": "Insurance",
+        "type": "Customer"
+    }
+]
